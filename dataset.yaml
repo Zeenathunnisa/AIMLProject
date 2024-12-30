@@ -1,0 +1,7 @@
+path: C:\Users\yamun\OneDrive\Desktop\AIML\BoneFractureYolo8
+train: C:\Users\yamun\OneDrive\Desktop\AIML\BoneFractureYolo8\out-train\images
+val: C:\Users\yamun\OneDrive\Desktop\AIML\BoneFractureYolo8\out-valid\images
+test: C:\Users\yamun\OneDrive\Desktop\AIML\BoneFractureYolo8\out-test\images
+nc: 7 # Number of classes
+names: ['elbow positive', 'fingers positive', 'forearm fracture', 'humerus fracture', 'humerus', 'shoulder fracture', 'wrist positive']
+
